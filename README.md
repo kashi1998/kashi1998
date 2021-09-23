@@ -1,4 +1,4 @@
- <p> <img align="center" width="80%" src="/images/image1.jpg"/></a> </p><br>
+ <p align="center"> <img align="center" width="80%" src="/images/image1.jpg"/></a> </p><br>
 <h2 align="center">Hi there 👋 I am Kashinath </h2>
 <h3 align="center">Web Development enthusiast and Graduation Student from Sathaye Collage</h3><br>
 <p align="center">
